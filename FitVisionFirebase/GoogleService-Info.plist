@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>284055941808-lj4pqqd2lvjvlugl0ujdut4qdulfeuhi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.284055941808-lj4pqqd2lvjvlugl0ujdut4qdulfeuhi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALb_Vn12xwUu8SP-Fx73sdsg9bEto_l6s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>284055941808</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>seanlinapps.fitvisiontaiwanfirebase</string>
+	<key>PROJECT_ID</key>
+	<string>fitvisiontaiwancloud</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fitvisiontaiwancloud.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:284055941808:ios:0b3d98c9fc1f586d</string>
+	<key>DATABASE_URL</key>
+	<string>https://fitvisiontaiwancloud.firebaseio.com</string>
+</dict>
+</plist>
